@@ -1,1 +1,1 @@
-# sql_giaded_projects-
+# sql_guided_projects-

@@ -1,4 +1,4 @@
-# sql_guided_projects-
+# sql_projects-
 # Retail Sales of Store
 
 ## Project Description
